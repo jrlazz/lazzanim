@@ -16,7 +16,6 @@ local function showForm(player)
 	fs=fs.."label[1,3;"..img.." ]"
 	fs=fs.."image[3,2.3;2,2;"..img.."]"
 
-	fs=fs.."label[2,5.5;... esc and right-click to restart]"
 function visual()
 	conta=conta+1
 	img="emoji_0"..conta..".png"
